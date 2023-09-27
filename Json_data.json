@@ -1,0 +1,119 @@
+[{
+    "Version": "1.1",
+    "TranDtls": {
+        "TaxSch": "GST",
+        "SupTyp": "B2B",
+        "IgstOnIntra": "N",
+        "RegRev": null,
+        "EcmGstin": null
+    },
+    "DocDtls": {
+        "Typ": "INV",
+        "No": "23-24\/295",
+        "Dt": "29\/05\/2023"
+    },
+    "SellerDtls": {
+        "Gstin": "27ML09PLO900LPZ",
+        "LglNm": "TRADE NAME ",
+        "Addr1": "",
+        "Addr2": null,
+        "Loc": "Nagpur",
+        "Pin": 440002,
+        "Stcd": "27",
+        "Ph": null,
+        "Em": null
+    },
+    "BuyerDtls": {
+        "Gstin": "",
+        "LglNm": "Walk in Customer",
+        "Addr1": "H3B Nishat Enclave, 74 Bungalow",
+        "Addr2": null,
+        "Loc": "Bhopal",
+        "Pin": 462003,
+        "Stcd": "23",
+        "Ph": null,
+        "Em": null
+    },
+    "ValDtls": {
+        "AssVal": 400,
+        "CgstVal": 0,
+        "SgstVal": 0,
+        "TotInvVal": 472
+    },
+    "ItemList": [
+        {
+            "SlNo": "1",
+            "PrdDesc": "Rose Cake",
+            "IsServc": "N",
+            "HsnCd": "",
+            "Qty": 1,
+            "Unit": "NOS",
+            "UnitPrice": 400,
+            "TotAmt": 400,
+            "AssAmt": 400,
+            "GstRt": 18,
+            "CgstAmt": 0,
+            "SgstAmt": 0,
+            "TotItemVal": 472
+        }
+    ]
+},{
+    "Version": "1.1",
+    "TranDtls": {
+        "TaxSch": "GST",
+        "SupTyp": "B2B",
+        "IgstOnIntra": "N",
+        "RegRev": null,
+        "EcmGstin": null
+    },
+    "DocDtls": {
+        "Typ": "DBN",
+        "No": "23-24\/294",
+        "Dt": "29\/05\/2023"
+    },
+    "SellerDtls": {
+        "Gstin": "27ML09PLO900LPZ",
+        "LglNm": "TRADE NAME ",
+        "Addr1": "",
+        "Addr2": null,
+        "Loc": "Nagpur",
+        "Pin": 440002,
+        "Stcd": "27",
+        "Ph": null,
+        "Em": null
+    },
+    "BuyerDtls": {
+        "Gstin": "",
+        "LglNm": "Walk in Customer",
+        "Addr1": "H3B Nishat Enclave, 74 Bungalow",
+        "Addr2": null,
+        "Loc": "Bhopal",
+        "Pin": 462003,
+        "Stcd": "23",
+        "Ph": null,
+        "Em": null
+    },
+    "ValDtls": {
+        "AssVal": 338.98,
+        "CgstVal": 0,
+        "SgstVal": 0,
+        "TotInvVal": 400
+    },
+    "ItemList": [
+        {
+            "SlNo": "1",
+            "PrdDesc": "Dome Cake",
+            "IsServc": "N",
+            "HsnCd": "",
+            "Qty": 1,
+            "Unit": "NOS",
+            "UnitPrice": 338.98,
+            "TotAmt": 338.98,
+            "AssAmt": 338.98,
+            "GstRt": 18,
+            "CgstAmt": 0,
+            "SgstAmt": 0,
+            "TotItemVal": 400
+        }
+    ]
+}]
