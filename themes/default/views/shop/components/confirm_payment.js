@@ -130,4 +130,4 @@ function openOrder(evt, PaymentCode) {
 	  }
 	  document.getElementById(PaymentCode).style.display = "block";
 	  evt.currentTarget.className += " active";
-}
+};

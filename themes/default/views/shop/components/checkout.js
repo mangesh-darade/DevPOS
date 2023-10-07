@@ -207,4 +207,4 @@ function show_slote_time(getid){
                 console.log('error');
             }
      });
- }
+ };
